@@ -51,7 +51,7 @@ layout: null
                             <tr class="hover:bg-slate-50 transition-colors">
                                 <td class="px-6 py-4 text-sm font-mono text-slate-400 align-top">{{ episode.episode_id }}</td>
                                 <td class="px-6 py-4 align-top">
-                                    <div class="font-bold text-slate-900 text-lg">{{ review.movie }}</div>
+                                    <div class="font-bold text-slate-900 text-lg"><a href="{{ review.wikipedia_link }}">{{ review.movie }}</a></div>
                                     <div class="text-xs text-slate-400">{{ episode.air_date }}</div>
                                 </td>
                                 <td class="px-6 py-4">
@@ -63,11 +63,6 @@ layout: null
                                         </div>
                                         {% endfor %}
                                     </div>
-                                </td>
-                                <td class="px-6 py-4 text-right align-top">
-                                    <a href="{{ review.wikipedia_link }}" target="_blank" class="inline-flex items-center px-3 py-1 rounded-full text-xs font-bold bg-yellow-100 text-yellow-700 hover:bg-yellow-200 transition">
-                                        WIKI
-                                    </a>
                                 </td>
                             </tr>
                             {% endfor %}

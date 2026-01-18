@@ -1,0 +1,24 @@
+name: Validate JSON
+
+on:
+  pull_request:
+    paths:
+      - '_data/expertise.json'
+
+jobs:
+  validate-syntax:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Validate JSON syntax
+        run: |
+          # Check for JSON errors with Python's json.tool
+          python3 -m json.tool _data/expertise/expertise.json > /dev/null
+          if [ $? -eq 0 ]; then
+            echo "✅ JSON is valid."
+          else
+            echo "❌ JSON is invalid!"
+            exit 1
+          fi

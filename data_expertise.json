@@ -1,0 +1,3161 @@
+{
+  "expertise": [
+    {
+      "season": 1,
+      "episodes": [
+        {
+          "episode_id": "101",
+          "air_date": "November 2, 2012",
+          "reviews": [
+            {
+              "movie": "The Man with the Iron Fists",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/The_Man_with_the_Iron_Fists",
+              "ratings": {
+                "Tim": "4 Bags, 1 Soda",
+                "Gregg": "5 Bags, 2 Sodas"
+              }
+            },
+            {
+              "movie": "Flight",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Flight_(2012_film)",
+              "ratings": {
+                "Tim": "5 Bags, 2 Sodas",
+                "Gregg": "5 Bags, 1 Candy Bar"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "102",
+          "air_date": "November 8, 2012",
+          "reviews": [
+            {
+              "movie": "Skyfall",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Skyfall",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags, Extra Butter, 100 Sodas"
+              }
+            },
+            {
+              "movie": "Lincoln",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Lincoln_(2012_film)",
+              "ratings": {
+                "Tim": "6 Bags, 3 Sodas",
+                "Gregg": "4 Bags, Roll of Pennies"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "103",
+          "air_date": "November 16, 2012",
+          "reviews": [
+            {
+              "movie": "The Twilight Saga: Breaking Dawn – Part 2",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/The_Twilight_Saga:_Breaking_Dawn_%E2%80%93_Part_2",
+              "ratings": {
+                "Tim": "4 Bags",
+                "Gregg": "4 Bags"
+              }
+            },
+            {
+              "movie": "Anna Karenina",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Anna_Karenina_(2012_film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags, Oscar Pick"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "104",
+          "air_date": "November 21, 2012",
+          "reviews": [
+            {
+              "movie": "Red Dawn",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Red_Dawn_(2012_film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "4 Bags, 1 Cup of Water"
+              }
+            },
+            {
+              "movie": "Life of Pi",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Life_of_Pi_(film)",
+              "ratings": {
+                "Tim": "4 Bags, Oscar Pick",
+                "Gregg": "5 Bags, Crackers Wrapped in Seaweed"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "105",
+          "air_date": "November 29, 2012",
+          "reviews": [
+            {
+              "movie": "The Frozen Ground",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/The_Frozen_Ground",
+              "ratings": {
+                "Tim": "4 Bags",
+                "Gregg": "4 Bags"
+              }
+            },
+            {
+              "movie": "Universal Soldier: Day of Reckoning",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Universal_Soldier:_Day_of_Reckoning",
+              "ratings": {
+                "Tim": "Unrated",
+                "Gregg": "5 Tubs, 1 Red Bull"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "106",
+          "air_date": "December 6, 2012",
+          "reviews": [
+            {
+              "movie": "Playing for Keeps",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Playing_for_Keeps_(2012_film)",
+              "ratings": {
+                "Tim": "4 Bags",
+                "Gregg": "4 Bags, Hotdog"
+              }
+            },
+            {
+              "movie": "Hyde Park on Hudson",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Hyde_Park_on_Hudson",
+              "ratings": {
+                "Tim": "5 Bags, 2 Sodas, Oscar Pick",
+                "Gregg": "4 Bags, 6 Oscars"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "107",
+          "air_date": "December 13, 2012",
+          "reviews": [
+            {
+              "movie": "The Hobbit: An Unexpected Journey",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/The_Hobbit:_An_Unexpected_Journey",
+              "ratings": {
+                "Tim": "6 Bags, 6 Sodas",
+                "Gregg": "5 Bags, Hobbit Hug"
+              }
+            },
+            {
+              "movie": "Les Miserables",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Les_Miserables_(2012_film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "4 or 5 Bags"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "108",
+          "air_date": "December 21, 2012",
+          "reviews": [
+            {
+              "movie": "Zero Dark Thirty",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Zero_Dark_Thirty",
+              "ratings": {
+                "Tim": "3 Bags",
+                "Gregg": "4 Bags"
+              }
+            },
+            {
+              "movie": "Monsters, Inc.",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Monsters,_Inc.",
+              "ratings": {
+                "Tim": "5 Bags, 2 Sodas",
+                "Gregg": "5 Microwave Popcorns, 2 Liters of Coke, Cups"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "109",
+          "air_date": "December 27, 2012",
+          "reviews": [
+            {
+              "movie": "Jack Reacher",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Jack_Reacher_(film)",
+              "ratings": {
+                "Tim": "6 Bags, 6 Sodas",
+                "Gregg": "5 Bags"
+              }
+            },
+            {
+              "movie": "Cirque du Soleil: Worlds Away",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Cirque_du_Soleil:_Worlds_Away",
+              "ratings": {
+                "Tim": "4 Bags",
+                "Gregg": "5 Bags, Cotton Candy"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "110",
+          "air_date": "January 10, 2013",
+          "reviews": [
+            {
+              "movie": "Parental Guidance",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Parental_Guidance_(film)",
+              "ratings": {
+                "Tim": "6 Bags, 2 Sodas",
+                "Gregg": "Unrated"
+              }
+            },
+            {
+              "movie": "Django Unchained",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Django_Unchained",
+              "ratings": {
+                "Tim": "4 Bags",
+                "Gregg": "5 Bags, Toy Pistol Filled w/ Soda"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "season": 2,
+      "episodes": [
+        {
+          "episode_id": "201",
+          "air_date": "February 7, 2013",
+          "reviews": [
+            {
+              "movie": "Side Effects",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Side_Effects_(2013_film)",
+              "ratings": {
+                "Tim": "6 Bags, 2 Sodas",
+                "Gregg": "5 Bags"
+              }
+            },
+            {
+              "movie": "Identity Thief",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Identity_Thief",
+              "ratings": {
+                "Tim": "4 Bags",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "202",
+          "air_date": "February 14, 2013",
+          "reviews": [
+            {
+              "movie": "A Good Day to Die Hard",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/A_Good_Day_to_Die_Hard",
+              "ratings": {
+                "Tim": "5 Bags, 5 Bags Private Collection",
+                "Gregg": "5 Bags"
+              }
+            },
+            {
+              "movie": "Escape from Planet Earth",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Escape_from_Planet_Earth",
+              "ratings": {
+                "Tim": "Unrated",
+                "Gregg": "Unrated"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "203",
+          "air_date": "February 21, 2013",
+          "reviews": [
+            {
+              "movie": "Snitch",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Snitch_(film)",
+              "ratings": {
+                "Tim": "4 Bags, 2 Sodas",
+                "Gregg": "5 Bags"
+              }
+            },
+            {
+              "movie": "Dark Skies",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Dark_Skies_(film)",
+              "ratings": {
+                "Tim": "3 Bags",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "204",
+          "air_date": "February 28, 2013",
+          "reviews": [
+            {
+              "movie": "21 and Over",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/21_%26_Over_(film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            },
+            {
+              "movie": "Jack the Giant Slayer",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Jack_the_Giant_Slayer",
+              "ratings": {
+                "Tim": "6 Giant Sized Bags",
+                "Gregg": "5 Bags, Another 5 Bags"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "205",
+          "air_date": "March 7, 2013",
+          "reviews": [
+            {
+              "movie": "Oz the Great and Powerful",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Oz_the_Great_and_Powerful",
+              "ratings": {
+                "Tim": "4 Bags",
+                "Gregg": "5 Bags"
+              }
+            },
+            {
+              "movie": "Dead Man Down",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Dead_Man_Down",
+              "ratings": {
+                "Tim": "5 Bags, 3 Sodas",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "206",
+          "air_date": "March 14, 2013",
+          "reviews": [
+            {
+              "movie": "Carrie",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Carrie_(2013_film)",
+              "ratings": {
+                "Tim": "4 Bags",
+                "Gregg": "5 Bags"
+              }
+            },
+            {
+              "movie": "The Incredible Burt Wonderstone",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/The_Incredible_Burt_Wonderstone",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "207",
+          "air_date": "March 21, 2013",
+          "reviews": [
+            {
+              "movie": "The Croods",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/The_Croods",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Stone Containers"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "208",
+          "air_date": "March 28, 2013",
+          "reviews": [
+            {
+              "movie": "G.I. Joe: Retaliation",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/G.I._Joe:_Retaliation",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Ayaka": "4 Bags"
+              }
+            },
+            {
+              "movie": "Temptation: Confessions of a Marriage Counselor",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Temptation:_Confessions_of_a_Marriage_Counselor",
+              "ratings": {
+                "Tim": "4 Bags",
+                "Ayaka": "3 Bags, 3 Sodas"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "209",
+          "air_date": "April 4, 2013",
+          "reviews": [
+            {
+              "movie": "The Company You Keep",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/The_Company_You_Keep_(film)",
+              "ratings": {
+                "Tim": "4 Bags, 1 Soda",
+                "Gregg": "5 Bags on a Train"
+              }
+            },
+            {
+              "movie": "Jurassic Park 3D",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Jurassic_Park_(film)",
+              "ratings": {
+                "Tim": "Unrated",
+                "Gregg": "Unrated"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "210",
+          "air_date": "April 11, 2013",
+          "reviews": [
+            {
+              "movie": "Oblivion",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Oblivion_(2013_film)",
+              "ratings": {
+                "Tim": "6 Bags, 2 Sodas",
+                "Gregg": "5 Tubs"
+              }
+            },
+            {
+              "movie": "Scary Movie 5",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Scary_Movie_5",
+              "ratings": {
+                "Tim": "4 Bags",
+                "Gregg": "5 Tubs"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "season": 3,
+      "episodes": [
+        {
+          "episode_id": "301",
+          "air_date": "July 7, 2013",
+          "reviews": [
+            {
+              "movie": "The Lone Ranger",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/The_Lone_Ranger_(2013_film)",
+              "ratings": {
+                "Tim": "6 Bags",
+                "Gregg": "5 Bags"
+              }
+            },
+            {
+              "movie": "Despicable Me 2",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Despicable_Me_2",
+              "ratings": {
+                "Tim": "4 Bags",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "302",
+          "air_date": "July 14, 2013",
+          "reviews": [
+            {
+              "movie": "Grown Ups 2",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Grown_Ups_2",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            },
+            {
+              "movie": "Pacific Rim",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Pacific_Rim_(film)",
+              "ratings": {
+                "Tim": "4 Bags",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "303",
+          "air_date": "July 17, 2013",
+          "reviews": [
+            {
+              "movie": "Turbo",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Turbo_(film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            },
+            {
+              "movie": "Red 2",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Red_2_(film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "304",
+          "air_date": "July 24, 2013",
+          "reviews": [
+            {
+              "movie": "The Wolverine",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/The_Wolverine_(film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            },
+            {
+              "movie": "Blue Jasmine",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Blue_Jasmine",
+              "ratings": {
+                "Tim": "6 Bags",
+                "Gregg": "No Review"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "305",
+          "air_date": "July 31, 2013",
+          "reviews": [
+            {
+              "movie": "The Smurfs 2",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/The_Smurfs_2",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            },
+            {
+              "movie": "300: Rise of an Empire",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/300:_Rise_of_an_Empire",
+              "ratings": {
+                "Tim": "4 Bags",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "306",
+          "air_date": "August 7, 2013",
+          "reviews": [
+            {
+              "movie": "Percy Jackson: Sea of Monsters",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Percy_Jackson:_Sea_of_Monsters",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            },
+            {
+              "movie": "Elysium",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Elysium_(film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "Unrated"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "307",
+          "air_date": "August 14, 2013",
+          "reviews": [
+            {
+              "movie": "Kick-Ass 2",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Kick-Ass_2_(film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "308",
+          "air_date": "August 21, 2013",
+          "reviews": [
+            {
+              "movie": "The World's End",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/The_World%27s_End_(film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Ayaka": "5 Bags",
+                "John": "4 Bags"
+              }
+            },
+            {
+              "movie": "The Colony",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/The_Colony_(2013_film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Ayaka": "Loved It",
+                "John": "5 Bags +"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "309",
+          "air_date": "August 28, 2013",
+          "reviews": [
+            {
+              "movie": "Getaway",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Getaway_(film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "2 Bags",
+                "Ayaka": "5 Bags"
+              }
+            },
+            {
+              "movie": "One Direction: This is Us",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/One_Direction:_This_is_Us",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "0 Bags",
+                "Ayaka": "6 Bags"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "310",
+          "air_date": "September 4, 2013",
+          "reviews": [
+            {
+              "movie": "Riddick",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Riddick_(film)",
+              "ratings": {
+                "Tim": "4 Bags",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "Special",
+          "air_date": "December 18, 2013",
+          "reviews": [
+            {
+              "movie": "The Hobbit: The Desolation of Smaug",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/The_Hobbit:_The_Desolation_of_Smaug",
+              "ratings": {
+                "Tim": "10 Bags",
+                "Gregg": "105 Bags"
+              }
+            },
+            {
+              "movie": "A Madea Christmas",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/A_Madea_Christmas_(film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "season": 4,
+      "episodes": [
+        {
+          "episode_id": "401",
+          "air_date": "January 8, 2014",
+          "reviews": [
+            {
+              "movie": "Lone Survivor",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Lone_Survivor",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            },
+            {
+              "movie": "Her",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Her_(film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "402",
+          "air_date": "January 15, 2014",
+          "reviews": [
+            {
+              "movie": "The Nut Job",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/The_Nut_Job",
+              "ratings": {
+                "Tim": "Unrated",
+                "Gregg": "Unrated"
+              }
+            },
+            {
+              "movie": "Ride Along",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Ride_Along_(film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "403",
+          "air_date": "January 22, 2014",
+          "reviews": [
+            {
+              "movie": "I, Frankenstein",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/I,_Frankenstein",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            },
+            {
+              "movie": "Gimme Shelter",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Gimme_Shelter_(2013_film)",
+              "ratings": {
+                "Tim": "4 Bags",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "404",
+          "air_date": "January 29, 2014",
+          "reviews": [
+            {
+              "movie": "That Awkward Moment",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/That_Awkward_Moment",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            },
+            {
+              "movie": "Labor Day",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Labor_Day_(film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "405",
+          "air_date": "February 5, 2014",
+          "reviews": [
+            {
+              "movie": "The Lego Movie",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/The_Lego_Movie",
+              "ratings": {
+                "Tim": "3 Stars",
+                "Gregg": "10 Bags"
+              }
+            },
+            {
+              "movie": "Robocop",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Robocop_(2014_film)",
+              "ratings": {
+                "Tim": "Unrated",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "406",
+          "air_date": "February 11, 2014",
+          "reviews": [
+            {
+              "movie": "Girl on a Bicycle",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Girl_on_a_Bicycle",
+              "ratings": {
+                "Gregg": "5 Bags",
+                "Larry Turman": "3 Bags"
+              }
+            },
+            {
+              "movie": "Endless Love",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Endless_Love_(2014_film)",
+              "ratings": {
+                "Gregg": "5 Bags",
+                "Larry Turman": "Unrated"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "407",
+          "air_date": "February 19, 2014",
+          "reviews": [
+            {
+              "movie": "Pompeii",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Pompeii_(film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "408",
+          "air_date": "February 26, 2014",
+          "reviews": [
+            {
+              "movie": "Welcome to Yesterday",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Project_Almanac",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            },
+            {
+              "movie": "Non-Stop",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Non-Stop_(film)",
+              "ratings": {
+                "Tim": "6 Bags",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "409",
+          "air_date": "March 5, 2014",
+          "reviews": [
+            {
+              "movie": "Need For Speed",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Need_for_Speed_(film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            },
+            {
+              "movie": "Walk of Shame",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Walk_of_Shame_(film)",
+              "ratings": {
+                "Tim": "Unrated",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "410",
+          "air_date": "March 12, 2014",
+          "reviews": [
+            {
+              "movie": "Muppets Most Wanted",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Muppets_Most_Wanted",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "season": 5,
+      "episodes": [
+        {
+          "episode_id": "501",
+          "air_date": "July 2, 2014",
+          "reviews": [
+            {
+              "movie": "Deliver Us from Evil",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Deliver_Us_from_Evil_(2014_film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            },
+            {
+              "movie": "Tammy",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Tammy_(film)",
+              "ratings": {
+                "Tim": "6 Bags",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "502",
+          "air_date": "July 9, 2014",
+          "reviews": [
+            {
+              "movie": "Dawn of the Planet of the Apes",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Dawn_of_the_Planet_of_the_Apes",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            },
+            {
+              "movie": "And So It Goes",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/And_So_It_Goes_(film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "503",
+          "air_date": "July 16, 2014",
+          "reviews": [
+            {
+              "movie": "Jupiter Ascending",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Jupiter_Ascending",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "7 Bags"
+              }
+            },
+            {
+              "movie": "Planes: Fire and Rescue",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Planes:_Fire_%26_Rescue",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "504",
+          "air_date": "July 23, 2014",
+          "reviews": [
+            {
+              "movie": "Wish I Was Here",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Wish_I_Was_Here",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            },
+            {
+              "movie": "Hercules",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Hercules_(2014_film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            },
+            {
+              "movie": "Magic in the Moonlight",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Magic_in_the_Moonlight",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "505",
+          "air_date": "July 30, 2014",
+          "reviews": [
+            {
+              "movie": "Guardians of the Galaxy",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_(film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            },
+            {
+              "movie": "Get on Up",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Get_on_Up_(film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "506",
+          "air_date": "August 6, 2014",
+          "reviews": [
+            {
+              "movie": "Teenage Mutant Ninja Turtles",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles_(2014_film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            },
+            {
+              "movie": "Into the Storm",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Into_the_Storm_(2014_film)",
+              "ratings": {
+                "Tim": "Unrated",
+                "Gregg": "Unrated"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "507",
+          "air_date": "August 13, 2014",
+          "reviews": [
+            {
+              "movie": "Let's Be Cops",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Let%27s_Be_Cops",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            },
+            {
+              "movie": "The Expendables 3",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/The_Expendables_3",
+              "ratings": {
+                "Tim": "10 Bags",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "508",
+          "air_date": "August 20, 2014",
+          "reviews": [
+            {
+              "movie": "Sin City: A Dame to Kill For",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Sin_City:_A_Dame_to_Kill_For",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "509",
+          "air_date": "August 27, 2014",
+          "reviews": [
+            {
+              "movie": "The November Man",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/The_November_Man",
+              "ratings": {
+                "Tim": "Unclear",
+                "Gregg": "5 Bags"
+              }
+            },
+            {
+              "movie": "Jessabelle",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Jessabelle",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "510",
+          "air_date": "September 3, 2014",
+          "reviews": [
+            {
+              "movie": "Dark Places",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Dark_Places_(film)",
+              "ratings": {
+                "Tim": "Unrated",
+                "Gregg": "Unrated"
+              }
+            },
+            {
+              "movie": "The Green Inferno",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/The_Green_Inferno_(film)",
+              "ratings": {
+                "Tim": "Unrated",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "season": 6,
+      "episodes": [
+        {
+          "episode_id": "601",
+          "air_date": "February 4, 2015",
+          "reviews": [
+            {
+              "movie": "Jupiter Ascending",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Jupiter_Ascending",
+              "ratings": {
+                "Gregg": "10 Bags"
+              }
+            },
+            {
+              "movie": "The SpongeBob Movie: Sponge Out of Water",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/The_SpongeBob_Movie:_Sponge_Out_of_Water",
+              "ratings": {
+                "Gregg": "10 Bags"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "602",
+          "air_date": "February 11, 2015",
+          "reviews": [
+            {
+              "movie": "Fifty Shades of Grey",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Fifty_Shades_of_Grey_(film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            },
+            {
+              "movie": "Kingsman: The Secret Service",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Kingsman:_The_Secret_Service",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "603",
+          "air_date": "February 18, 2015",
+          "reviews": [
+            {
+              "movie": "Hot Tub Time Machine 2",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Hot_Tub_Time_Machine_2",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            },
+            {
+              "movie": "McFarland USA",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/McFarland,_USA",
+              "ratings": {
+                "Tim": "6 Bags",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "604",
+          "air_date": "February 25, 2015",
+          "reviews": [
+            {
+              "movie": "Focus",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Focus_(2015_film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            },
+            {
+              "movie": "The Lazarus Effect",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/The_Lazarus_Effect_(2015_film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "605",
+          "air_date": "March 4, 2015",
+          "reviews": [
+            {
+              "movie": "Chappie",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Chappie_(film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags",
+                "Joe Estevez": "Unrated"
+              }
+            },
+            {
+              "movie": "The Second Best Exotic Marigold Hotel",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/The_Second_Best_Exotic_Marigold_Hotel",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags",
+                "Joe Estevez": "Unrated"
+              }
+            },
+            {
+              "movie": "No Escape",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/No_Escape_(2015_film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags",
+                "Joe Estevez": "Unrated"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "606",
+          "air_date": "March 11, 2015",
+          "reviews": [
+            {
+              "movie": "In the Heart of the Sea",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/In_the_Heart_of_the_Sea_(film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            },
+            {
+              "movie": "Cinderella",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Cinderella_(2015_film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "Unrated"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "607",
+          "air_date": "March 18, 2015",
+          "reviews": [
+            {
+              "movie": "The Divergent Series: Insurgent",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/The_Divergent_Series:_Insurgent",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            },
+            {
+              "movie": "The Gunman",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/The_Gunman_(film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "608",
+          "air_date": "March 25, 2015",
+          "reviews": [
+            {
+              "movie": "Get Hard",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Get_Hard",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            },
+            {
+              "movie": "Home",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Home_(2015_film)",
+              "ratings": {
+                "Tim": "4 Bags",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "609",
+          "air_date": "April 1, 2015",
+          "reviews": [
+            {
+              "movie": "Furious 7",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Furious_7",
+              "ratings": {
+                "Tim": "7 Bags",
+                "Gregg": "5 Bags"
+              }
+            },
+            {
+              "movie": "Woman in Gold",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Woman_in_Gold_(film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "610",
+          "air_date": "April 8, 2015",
+          "reviews": [
+            {
+              "movie": "Ex Machina",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Ex_Machina_(film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Ayaka": "5 Bags"
+              }
+            },
+            {
+              "movie": "The Moon and the Sun",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/The_King%27s_Daughter_(2022_film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Ayaka": "3 Bags"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "season": 7,
+      "episodes": [
+        {
+          "episode_id": "701",
+          "air_date": "September 9, 2015",
+          "reviews": [
+            {
+              "movie": "Ant-Man",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Ant-Man_(film)",
+              "ratings": {
+                "Tim": "1 Bag",
+                "Gregg": "Recused"
+              }
+            },
+            {
+              "movie": "Fantastic Four",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Fantastic_Four_(2015_film)",
+              "ratings": {
+                "Tim": "6 Bags",
+                "Gregg": "Unrated"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "702",
+          "air_date": "September 16, 2015",
+          "reviews": [
+            {
+              "movie": "Black Mass",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Black_Mass_(film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            },
+            {
+              "movie": "Maze Runner: The Scorch Trials",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Maze_Runner:_The_Scorch_Trials",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "703",
+          "air_date": "September 23, 2015",
+          "reviews": [
+            {
+              "movie": "The Intern",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/The_Intern_(2015_film)",
+              "ratings": {
+                "Tim": "Unrated",
+                "Gregg": "Unrated"
+              }
+            },
+            {
+              "movie": "Hotel Transylvania 2",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Hotel_Transylvania_2",
+              "ratings": {
+                "Tim": "Unrated",
+                "Gregg": "Unrated"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "704",
+          "air_date": "September 30, 2015",
+          "reviews": [
+            {
+              "movie": "The Martian",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/The_Martian_(film)",
+              "ratings": {
+                "Tim": "Unrated",
+                "Gregg": "Unrated"
+              }
+            },
+            {
+              "movie": "Sicario",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Sicario_(2015_film)",
+              "ratings": {
+                "Tim": "Unrated",
+                "Gregg": "Unrated"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "705",
+          "air_date": "October 7, 2015",
+          "reviews": [
+            {
+              "movie": "Pan",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Pan_(2015_film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            },
+            {
+              "movie": "Steve Jobs",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Steve_Jobs_(film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "706",
+          "air_date": "October 14, 2015",
+          "reviews": [
+            {
+              "movie": "Goosebumps",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Goosebumps_(film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            },
+            {
+              "movie": "Bridge of Spies",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Bridge_of_Spies_(film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "707",
+          "air_date": "October 21, 2015",
+          "reviews": [
+            {
+              "movie": "Jem and the Holograms",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Jem_and_the_Holograms_(film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            },
+            {
+              "movie": "Paranormal Activity: The Ghost Dimension",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Paranormal_Activity:_The_Ghost_Dimension",
+              "ratings": {
+                "Tim": "Unrated",
+                "Gregg": "Unrated"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "708",
+          "air_date": "October 28, 2015",
+          "reviews": [
+            {
+              "movie": "Collide",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Collide_(film)",
+              "ratings": {
+                "Tim": "Unrated",
+                "Axiom": "Unrated"
+              }
+            },
+            {
+              "movie": "Scout's Guide to the Zombie Apocalypse",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Scouts_Guide_to_the_Zombie_Apocalypse",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Axiom": "Unrated"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "709",
+          "air_date": "November 4, 2015",
+          "reviews": [
+            {
+              "movie": "Spectre",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Spectre_(2015_film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            },
+            {
+              "movie": "The Peanuts Movie",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/The_Peanuts_Movie",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "710",
+          "air_date": "November 11, 2015",
+          "reviews": [
+            {
+              "movie": "Rings",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Rings_(2017_film)",
+              "ratings": {
+                "Tim": "Unrated",
+                "Gregg": "Unrated"
+              }
+            },
+            {
+              "movie": "By the Sea",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/By_the_Sea_(2015_film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "season": 8,
+      "episodes": [
+        {
+          "episode_id": "801",
+          "air_date": "April 6, 2016",
+          "reviews": [
+            {
+              "movie": "The Boss",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/The_Boss_(2016_film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            },
+            {
+              "movie": "Hardcore Henry",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Hardcore_Henry",
+              "ratings": {
+                "Tim": "1 Bag",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "802",
+          "air_date": "April 13, 2016",
+          "reviews": [
+            {
+              "movie": "The Jungle Book",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/The_Jungle_Book_(2016_film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            },
+            {
+              "movie": "Barbershop: The Next Cut",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Barbershop:_The_Next_Cut",
+              "ratings": {
+                "Tim": "4 Bags",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "803",
+          "air_date": "April 20, 2016",
+          "reviews": [
+            {
+              "movie": "The Huntsman: Winter's War",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/The_Huntsman:_Winter%27s_War",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            },
+            {
+              "movie": "Elvis & Nixon",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Elvis_%26_Nixon",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "804",
+          "air_date": "April 27, 2016",
+          "reviews": [
+            {
+              "movie": "Keanu",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Keanu_(film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            },
+            {
+              "movie": "Mother's Day",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Mother%27s_Day_(2016_film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "805",
+          "air_date": "May 4, 2016",
+          "reviews": [
+            {
+              "movie": "Captain America: Civil War",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Captain_America:_Civil_War",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "806",
+          "air_date": "May 11, 2016",
+          "reviews": [
+            {
+              "movie": "Money Monster",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Money_Monster",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            },
+            {
+              "movie": "The Darkness",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/The_Darkness_(film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "807",
+          "air_date": "May 18, 2016",
+          "reviews": [
+            {
+              "movie": "The Nice Guys",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/The_Nice_Guys",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            },
+            {
+              "movie": "Neighbors 2: Sorority Rising",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Neighbors_2:_Sorority_Rising",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "808",
+          "air_date": "May 25, 2016",
+          "reviews": [
+            {
+              "movie": "X-Men: Apocalypse",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/X-Men:_Apocalypse",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            },
+            {
+              "movie": "Alice Through the Looking Glass",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Alice_Through_the_Looking_Glass_(2016_film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "809",
+          "air_date": "June 1, 2016",
+          "reviews": [
+            {
+              "movie": "Popstar: Never Stop Never Stopping",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Popstar:_Never_Stop_Never_Stopping",
+              "ratings": {
+                "Tim": "4 Bags",
+                "Gregg": "5 Bags"
+              }
+            },
+            {
+              "movie": "Me Before You",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Me_Before_You_(film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "810",
+          "air_date": "June 8, 2016",
+          "reviews": [
+            {
+              "movie": "The Conjuring 2",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/The_Conjuring_2",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            },
+            {
+              "movie": "Now You See Me 2",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Now_You_See_Me_2",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "season": 9,
+      "episodes": [
+        {
+          "episode_id": "901",
+          "air_date": "May 11, 2017",
+          "reviews": [
+            {
+              "movie": "King Arthur: Legend of the Sword",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/King_Arthur:_Legend_of_the_Sword",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            },
+            {
+              "movie": "Snatched",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Snatched_(2017_film)",
+              "ratings": {
+                "Tim": "4 Bags",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "902",
+          "air_date": "May 17, 2017",
+          "reviews": [
+            {
+              "movie": "Alien: Covenant",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Alien:_Covenant",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            },
+            {
+              "movie": "Everything, Everything",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Everything,_Everything_(film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "903",
+          "air_date": "May 25, 2017",
+          "reviews": [
+            {
+              "movie": "Pirates of the Caribbean: Dead Men Tell No Tales",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean:_Dead_Men_Tell_No_Tales",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            },
+            {
+              "movie": "Baywatch",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Baywatch_(film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "904",
+          "air_date": "June 1, 2017",
+          "reviews": [
+            {
+              "movie": "Wonder Woman",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Wonder_Woman_(2017_film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            },
+            {
+              "movie": "Captain Underpants: The First Epic Movie",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Captain_Underpants:_The_First_Epic_Movie",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "905",
+          "air_date": "June 8, 2017",
+          "reviews": [
+            {
+              "movie": "The Mummy",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/The_Mummy_(2017_film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            },
+            {
+              "movie": "It Comes at Night",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/It_Comes_at_Night",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "906",
+          "air_date": "June 15, 2017",
+          "reviews": [
+            {
+              "movie": "Cars 3",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Cars_3",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            },
+            {
+              "movie": "Rough Night",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Rough_Night",
+              "ratings": {
+                "Tim": "4 Bags",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "907",
+          "air_date": "June 22, 2017",
+          "reviews": [
+            {
+              "movie": "Transformers: The Last Knight",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Transformers:_The_Last_Knight",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "908",
+          "air_date": "June 29, 2017",
+          "reviews": [
+            {
+              "movie": "Despicable Me 3",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Despicable_Me_3",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            },
+            {
+              "movie": "Baby Driver",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Baby_Driver",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "909",
+          "air_date": "July 5, 2017",
+          "reviews": [
+            {
+              "movie": "Spider-Man: Homecoming",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Spider-Man:_Homecoming",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "910",
+          "air_date": "July 12, 2017",
+          "reviews": [
+            {
+              "movie": "War for the Planet of the Apes",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/War_for_the_Planet_of_the_Apes",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            },
+            {
+              "movie": "Wish Upon",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Wish_Upon",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "season": 10,
+      "episodes": [
+        {
+          "episode_id": "1001",
+          "air_date": "March 21, 2018",
+          "reviews": [
+            {
+              "movie": "Sherlock Gnomes",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Sherlock_Gnomes",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            },
+            {
+              "movie": "Pacific Rim: Uprising",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Pacific_Rim:_Uprising",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "1002",
+          "air_date": "March 28, 2018",
+          "reviews": [
+            {
+              "movie": "Ready Player One",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Ready_Player_One_(film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            },
+            {
+              "movie": "Acrimony",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Acrimony_(film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "1003",
+          "air_date": "April 4, 2018",
+          "reviews": [
+            {
+              "movie": "A Quiet Place",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/A_Quiet_Place",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            },
+            {
+              "movie": "Blockers",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Blockers_(film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "1004",
+          "air_date": "April 11, 2018",
+          "reviews": [
+            {
+              "movie": "Rampage",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Rampage_(2018_film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            },
+            {
+              "movie": "Truth or Dare",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Truth_or_Dare_(2018_film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "1005",
+          "air_date": "April 18, 2018",
+          "reviews": [
+            {
+              "movie": "Super Troopers 2",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Super_Troopers_2",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            },
+            {
+              "movie": "I Feel Pretty",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/I_Feel_Pretty_(film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "1006",
+          "air_date": "April 25, 2018",
+          "reviews": [
+            {
+              "movie": "Avengers: Infinity War",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Avengers:_Infinity_War",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "1007",
+          "air_date": "May 2, 2018",
+          "reviews": [
+            {
+              "movie": "Overboard",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Overboard_(2018_film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            },
+            {
+              "movie": "Tully",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Tully_(2018_film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "1008",
+          "air_date": "May 9, 2018",
+          "reviews": [
+            {
+              "movie": "Life of the Party",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Life_of_the_Party_(2018_film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            },
+            {
+              "movie": "Breaking In",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Breaking_In_(2018_film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "1009",
+          "air_date": "May 16, 2018",
+          "reviews": [
+            {
+              "movie": "Deadpool 2",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Deadpool_2",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            },
+            {
+              "movie": "Show Dogs",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Show_Dogs",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "1010",
+          "air_date": "May 23, 2018",
+          "reviews": [
+            {
+              "movie": "Solo: A Star Wars Story",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Solo:_A_Star_Wars_Story",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "season": 11,
+      "episodes": [
+        {
+          "episode_id": "1101",
+          "air_date": "October 2, 2019",
+          "reviews": [
+            {
+              "movie": "Joker",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Joker_(2019_film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            },
+            {
+              "movie": "Lucy in the Sky",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Lucy_in_the_Sky",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "1102",
+          "air_date": "October 9, 2019",
+          "reviews": [
+            {
+              "movie": "Gemini Man",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Gemini_Man_(film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            },
+            {
+              "movie": "The Addams Family",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/The_Addams_Family_(2019_film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "1103",
+          "air_date": "October 16, 2019",
+          "reviews": [
+            {
+              "movie": "Maleficent: Mistress of Evil",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Maleficent:_Mistress_of_Evil",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            },
+            {
+              "movie": "Zombieland: Double Tap",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Zombieland:_Double_Tap",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "1104",
+          "air_date": "October 23, 2019",
+          "reviews": [
+            {
+              "movie": "The Current War",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/The_Current_War",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            },
+            {
+              "movie": "Black and Blue",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Black_and_Blue_(2019_film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "1105",
+          "air_date": "October 30, 2019",
+          "reviews": [
+            {
+              "movie": "Terminator: Dark Fate",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Terminator:_Dark_Fate",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            },
+            {
+              "movie": "Arctic Dogs",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Arctic_Dogs",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "1106",
+          "air_date": "November 6, 2019",
+          "reviews": [
+            {
+              "movie": "Doctor Sleep",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Doctor_Sleep_(2019_film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            },
+            {
+              "movie": "Playing with Fire",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Playing_with_Fire_(2019_film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "1107",
+          "air_date": "November 13, 2019",
+          "reviews": [
+            {
+              "movie": "Ford v Ferrari",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Ford_v_Ferrari",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            },
+            {
+              "movie": "Charlie's Angels",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Charlie%27s_Angels_(2019_film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "1108",
+          "air_date": "November 20, 2019",
+          "reviews": [
+            {
+              "movie": "A Beautiful Day in the Neighborhood",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/A_Beautiful_Day_in_the_Neighborhood",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            },
+            {
+              "movie": "21 Bridges",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/21_Bridges",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "1109",
+          "air_date": "November 27, 2019",
+          "reviews": [
+            {
+              "movie": "Knives Out",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Knives_Out",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "1110",
+          "air_date": "December 4, 2019",
+          "reviews": [
+            {
+              "movie": "Playmobil: The Movie",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Playmobil:_The_Movie",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "season": 12,
+      "episodes": [
+        {
+          "episode_id": "1201",
+          "air_date": "September 18, 2021",
+          "reviews": [
+            {
+              "movie": "Dear Evan Hansen",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Dear_Evan_Hansen_(film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "1202",
+          "air_date": "September 25, 2021",
+          "reviews": [
+            {
+              "movie": "The Many Saints of Newark",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/The_Many_Saints_of_Newark",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            },
+            {
+              "movie": "Venom: Let There Be Carnage",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Venom:_Let_There_Be_Carnage",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "1203",
+          "air_date": "October 2, 2021",
+          "reviews": [
+            {
+              "movie": "No Time to Die",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/No_Time_to_Die",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "1204",
+          "air_date": "October 9, 2021",
+          "reviews": [
+            {
+              "movie": "Halloween Kills",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Halloween_Kills",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            },
+            {
+              "movie": "The Last Duel",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/The_Last_Duel_(2021_film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "1205",
+          "air_date": "October 16, 2021",
+          "reviews": [
+            {
+              "movie": "Dune",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Dune_(2021_film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "1206",
+          "air_date": "October 23, 2021",
+          "reviews": [
+            {
+              "movie": "Last Night in Soho",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Last_Night_in_Soho",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            },
+            {
+              "movie": "Antlers",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Antlers_(film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "1207",
+          "air_date": "October 30, 2021",
+          "reviews": [
+            {
+              "movie": "Eternals",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Eternals_(film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "1208",
+          "air_date": "November 6, 2021",
+          "reviews": [
+            {
+              "movie": "Clifford the Big Red Dog",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Clifford_the_Big_Red_Dog_(film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            },
+            {
+              "movie": "Belfast",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Belfast_(film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "1209",
+          "air_date": "November 13, 2021",
+          "reviews": [
+            {
+              "movie": "Ghostbusters: Afterlife",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Ghostbusters:_Afterlife",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            },
+            {
+              "movie": "King Richard",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/King_Richard_(film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "1210",
+          "air_date": "November 20, 2021",
+          "reviews": [
+            {
+              "movie": "House of Gucci",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/House_of_Gucci",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            },
+            {
+              "movie": "Resident Evil: Welcome to Raccoon City",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Resident_Evil:_Welcome_to_Raccoon_City",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "season": 13,
+      "episodes": [
+        {
+          "episode_id": "1301",
+          "air_date": "October 26, 2022",
+          "reviews": [
+            {
+              "movie": "Black Panther: Wakanda Forever",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Black_Panther:_Wakanda_Forever",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags",
+                "Joey P.": "3 Stars"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "1302",
+          "air_date": "November 2, 2022",
+          "reviews": [
+            {
+              "movie": "The Fabelmans",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/The_Fabelmans",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags",
+                "Joey P.": "4 Stars"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "1303",
+          "air_date": "November 9, 2022",
+          "reviews": [
+            {
+              "movie": "Bones and All",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Bones_and_All",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags",
+                "Joey P.": "2 Stars"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "1304",
+          "air_date": "November 16, 2022",
+          "reviews": [
+            {
+              "movie": "Strange World",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Strange_World_(film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags",
+                "Joey P.": "3 Stars"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "1305",
+          "air_date": "November 23, 2022",
+          "reviews": [
+            {
+              "movie": "Violent Night",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Violent_Night",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags",
+                "Joey P.": "3 Stars"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "1306",
+          "air_date": "November 30, 2022",
+          "reviews": [
+            {
+              "movie": "Empire of Light",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Empire_of_Light_(film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags",
+                "Joey P.": "4 Stars"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "1307",
+          "air_date": "December 7, 2022",
+          "reviews": [
+            {
+              "movie": "Avatar: The Way of Water",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Avatar:_The_Way_of_Water",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags",
+                "Joey P.": "5 Stars"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "1308",
+          "air_date": "December 14, 2022",
+          "reviews": [
+            {
+              "movie": "Puss in Boots: The Last Wish",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Puss_in_Boots:_The_Last_Wish",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags",
+                "Joey P.": "4 Stars"
+              }
+            },
+            {
+              "movie": "I Wanna Dance with Somebody",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Whitney_Houston:_I_Wanna_Dance_with_Somebody",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags",
+                "Joey P.": "3 Stars"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "1309",
+          "air_date": "December 21, 2022",
+          "reviews": [
+            {
+              "movie": "Babylon",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Babylon_(2022_film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags",
+                "Joey P.": "5 Stars"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "season": 14,
+      "episodes": [
+        {
+          "episode_id": "1401",
+          "air_date": "January 10, 2024",
+          "reviews": [
+            {
+              "movie": "Mean Girls",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Mean_Girls_(2024_film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags",
+                "Joey P.": "3 Stars"
+              }
+            },
+            {
+              "movie": "The Beekeeper",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/The_Beekeeper_(2024_film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags",
+                "Joey P.": "4 Stars"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "1402",
+          "air_date": "January 17, 2024",
+          "reviews": [
+            {
+              "movie": "I.S.S.",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/I.S.S._(film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags",
+                "Joey P.": "3 Stars"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "1403",
+          "air_date": "January 24, 2024",
+          "reviews": [
+            {
+              "movie": "Miller's Girl",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Miller%27s_Girl",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags",
+                "Joey P.": "2 Stars"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "1404",
+          "air_date": "January 31, 2024",
+          "reviews": [
+            {
+              "movie": "Argylle",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Argylle",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags",
+                "Joey P.": "4 Stars"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "1405",
+          "air_date": "February 7, 2024",
+          "reviews": [
+            {
+              "movie": "Lisa Frankenstein",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Lisa_Frankenstein",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags",
+                "Joey P.": "3 Stars"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "1406",
+          "air_date": "February 14, 2024",
+          "reviews": [
+            {
+              "movie": "Madame Web",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Madame_Web_(film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags",
+                "Joey P.": "2 Stars"
+              }
+            },
+            {
+              "movie": "Bob Marley: One Love",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Bob_Marley:_One_Love",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags",
+                "Joey P.": "3 Stars"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "1407",
+          "air_date": "February 21, 2024",
+          "reviews": [
+            {
+              "movie": "Drive-Away Dolls",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Drive-Away_Dolls",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags",
+                "Joey P.": "3 Stars"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "1408",
+          "air_date": "February 28, 2024",
+          "reviews": [
+            {
+              "movie": "Dune: Part Two",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Dune:_Part_Two",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags",
+                "Joey P.": "5 Stars"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "1409",
+          "air_date": "March 6, 2024",
+          "reviews": [
+            {
+              "movie": "Kung Fu Panda 4",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Kung_Fu_Panda_4",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags",
+                "Joey P.": "4 Stars"
+              }
+            },
+            {
+              "movie": "Imaginary",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Imaginary_(film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags",
+                "Joey P.": "2 Stars"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "season": 15,
+      "episodes": [
+        {
+          "episode_id": "1501",
+          "air_date": "October 2, 2024",
+          "reviews": [
+            {
+              "movie": "Joker: Folie à Deux",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Joker:_Folie_%C3%A0_Deux",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags",
+                "Joey P.": "3 Stars",
+                "G. Amato": "4.5 G's"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "1502",
+          "air_date": "October 9, 2024",
+          "reviews": [
+            {
+              "movie": "Saturday Night",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Saturday_Night_(film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags",
+                "Joey P.": "4 Stars",
+                "G. Amato": "5 G's"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "1503",
+          "air_date": "October 16, 2024",
+          "reviews": [
+            {
+              "movie": "Smile 2",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Smile_2",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags",
+                "Joey P.": "3 Stars",
+                "G. Amato": "3 G's"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "1504",
+          "air_date": "October 23, 2024",
+          "reviews": [
+            {
+              "movie": "Venom: The Last Dance",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Venom:_The_Last_Dance",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags",
+                "Joey P.": "4 Stars",
+                "G. Amato": "4 G's"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "1505",
+          "air_date": "October 30, 2024",
+          "reviews": [
+            {
+              "movie": "Here",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Here_(2024_film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags",
+                "Joey P.": "4 Stars",
+                "G. Amato": "5 G's"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "1506",
+          "air_date": "November 6, 2024",
+          "reviews": [
+            {
+              "movie": "Red One",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Red_One_(film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags",
+                "Joey P.": "3 Stars",
+                "G. Amato": "4 G's"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "1507",
+          "air_date": "November 13, 2024",
+          "reviews": [
+            {
+              "movie": "Gladiator II",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Gladiator_II",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags",
+                "Joey P.": "5 Stars",
+                "G. Amato": "5 G's"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "1508",
+          "air_date": "November 20, 2024",
+          "reviews": [
+            {
+              "movie": "Wicked",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Wicked_(film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags",
+                "Joey P.": "4 Stars",
+                "G. Amato": "5 G's"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "1509",
+          "air_date": "November 27, 2024",
+          "reviews": [
+            {
+              "movie": "Moana 2",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Moana_2",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags",
+                "Joey P.": "4 Stars",
+                "G. Amato": "4 G's"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "season": 16,
+      "episodes": [
+        {
+          "episode_id": "1601",
+          "air_date": "October 1, 2025",
+          "reviews": [
+            {
+              "movie": "The Strangers: Chapter 2",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/The_Strangers:_Chapter_2",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            },
+            {
+              "movie": "Gabby's Dollhouse: The Movie",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Gabby%27s_Dollhouse:_The_Movie",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "1602",
+          "air_date": "October 8, 2025",
+          "reviews": [
+            {
+              "movie": "Roofman",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Roofman",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            },
+            {
+              "movie": "Kiss of the Spider Woman",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Kiss_of_the_Spider_Woman_(musical)#Film_adaptation",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "1603",
+          "air_date": "October 15, 2025",
+          "reviews": [
+            {
+              "movie": "Black Phone 2",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/The_Black_Phone_2",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            },
+            {
+              "movie": "Blue Moon",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Blue_Moon_(upcoming_film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "1604",
+          "air_date": "October 22, 2025",
+          "reviews": [
+            {
+              "movie": "Springsteen: Deliver Me from Nowhere",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Deliver_Me_from_Nowhere",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "4 Bags"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

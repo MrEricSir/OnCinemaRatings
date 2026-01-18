@@ -1,5 +1,5 @@
 {
-  "expertise": [
+  "on_cinema_at_the_cinema": [
     {
       "season": 1,
       "episodes": [
@@ -107,7 +107,7 @@
               "movie": "Universal Soldier: Day of Reckoning",
               "wikipedia_link": "https://en.wikipedia.org/wiki/Universal_Soldier:_Day_of_Reckoning",
               "ratings": {
-                "Tim": "Unrated",
+                "Tim": "Unrated (Refused)",
                 "Gregg": "5 Tubs, 1 Red Bull"
               }
             }
@@ -831,7 +831,7 @@
           "air_date": "February 26, 2014",
           "reviews": [
             {
-              "movie": "Welcome to Yesterday",
+              "movie": "Project Almanac",
               "wikipedia_link": "https://en.wikipedia.org/wiki/Project_Almanac",
               "ratings": {
                 "Tim": "5 Bags",
@@ -1334,7 +1334,7 @@
               }
             },
             {
-              "movie": "The Moon and the Sun",
+              "movie": "The King's Daughter",
               "wikipedia_link": "https://en.wikipedia.org/wiki/The_King%27s_Daughter_(2022_film)",
               "ratings": {
                 "Tim": "5 Bags",
@@ -2935,7 +2935,7 @@
               "wikipedia_link": "https://en.wikipedia.org/wiki/Joker:_Folie_%C3%A0_Deux",
               "ratings": {
                 "Tim": "5 Bags",
-                "Gregg": "5 Bags",
+                "Gregg": "5 Bags, 1 Joker Playing Card",
                 "Joey P.": "3 Stars",
                 "G. Amato": "4.5 G's"
               }
@@ -2999,7 +2999,7 @@
               "wikipedia_link": "https://en.wikipedia.org/wiki/Here_(2024_film)",
               "ratings": {
                 "Tim": "5 Bags",
-                "Gregg": "5 Bags",
+                "Gregg": "5 Bags, 1 Clock",
                 "Joey P.": "4 Stars",
                 "G. Amato": "5 G's"
               }
@@ -3084,14 +3084,14 @@
               "wikipedia_link": "https://en.wikipedia.org/wiki/The_Strangers:_Chapter_2",
               "ratings": {
                 "Tim": "5 Bags",
-                "Gregg": "5 Bags"
+                "Gregg": "5 Bags, little knife"
               }
             },
             {
               "movie": "Gabby's Dollhouse: The Movie",
               "wikipedia_link": "https://en.wikipedia.org/wiki/Gabby%27s_Dollhouse:_The_Movie",
               "ratings": {
-                "Tim": "5 Bags",
+                "Tim": "5 Bags (according to Grok)",
                 "Gregg": "5 Bags"
               }
             }
@@ -3106,15 +3106,15 @@
               "wikipedia_link": "https://en.wikipedia.org/wiki/Roofman",
               "ratings": {
                 "Tim": "5 Bags",
-                "Gregg": "5 Bags"
+                "Gregg": "5 Bags, little skeleton master key"
               }
             },
             {
               "movie": "Kiss of the Spider Woman",
               "wikipedia_link": "https://en.wikipedia.org/wiki/Kiss_of_the_Spider_Woman_(musical)#Film_adaptation",
               "ratings": {
-                "Tim": "5 Bags",
-                "Gregg": "5 Bags"
+                "Tim": "5 Bags, 1 Soda (no ice)",
+                "Gregg": "5 Bags, pencil"
               }
             }
           ]
@@ -3136,7 +3136,7 @@
               "wikipedia_link": "https://en.wikipedia.org/wiki/Blue_Moon_(upcoming_film)",
               "ratings": {
                 "Tim": "5 Bags",
-                "Gregg": "5 Bags"
+                "Gregg": "5 Bags in a black and blue bucket"
               }
             }
           ]
@@ -3151,6 +3151,78 @@
               "ratings": {
                 "Tim": "5 Bags",
                 "Gregg": "4 Bags"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "1605",
+          "air_date": "October 29, 2025",
+          "reviews": [
+            {
+              "movie": "Haikyu!! The Movie: Battle at the Garbage Dump",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Haikyu!!_The_Movie:_Battle_at_the_Garbage_Dump",
+              "ratings": {
+                "Tim": "1 Bag",
+                "Gregg": "5 Bags, volleyball"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "1606",
+          "air_date": "November 5, 2025",
+          "reviews": [
+            {
+              "movie": "The Running Man",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/The_Running_Man_(2025_film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags, yellow jumpsuit"
+              }
+            },
+            {
+              "movie": "Predator: Badlands",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Predator:_Badlands",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags, little space gun"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "1607",
+          "air_date": "November 12, 2025",
+          "reviews": [
+            {
+              "movie": "Now You See Me: Now You Don't",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Now_You_See_Me:_Now_You_Don't",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            },
+            {
+              "movie": "Jay Kelly",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Jay_Kelly",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "1608",
+          "air_date": "November 19, 2025",
+          "reviews": [
+            {
+              "movie": "Wicked: For Good",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Wicked:_For_Good",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags, broomstick"
               }
             }
           ]

@@ -1,7 +1,10 @@
 name: Validate JSON
 
 on:
+  push:
+    branches: [ "main" ]
   pull_request:
+    branches: [ "main" ]
     paths:
       - '_data/expertise.json'
 
@@ -15,7 +18,7 @@ jobs:
       - name: Validate JSON syntax
         run: |
           # Check for JSON errors with Python's json.tool
-          python3 -m json.tool _data/expertise/expertise.json > /dev/null
+          python3 -m json.tool _data/expertise.json > /dev/null
           if [ $? -eq 0 ]; then
             echo "✅ JSON is valid."
           else

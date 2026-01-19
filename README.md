@@ -28,3 +28,7 @@ GitHub to validate the JSON formatting. Once the pull request is merged the page
 
 If you have an idea for the site that doesn't fit anywhere else, feel free to post 
 [it in the issues section.](https://github.com/MrEricSir/OnCinemaRatings/issues)
+
+## License
+
+This project is adapted from Wikipedia, and as such is available from [the same Creative Commons license](https://github.com/MrEricSir/OnCinemaRatings/blob/main/LICENSE) as Wikipedia.

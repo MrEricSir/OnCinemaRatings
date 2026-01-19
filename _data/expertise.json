@@ -2324,7 +2324,7 @@
               "ratings": {
                 "Tim": "5 Bags",
                 "Gregg": "4 Bags, Fifth Bag for Tim and Gregg to Split",
-                "Mark": "Unrated"
+                "Joe": "Unrated"
               }
             },
             {
@@ -2333,7 +2333,7 @@
               "ratings": {
                 "Tim": "Unrated",
                 "Gregg": "5 Bags",
-                "Mark": "Unrated"
+                "Joe": "Unrated"
               }
             }
           ]
@@ -2344,7 +2344,7 @@
           "reviews": [
             {
               "movie": "Mister America",
-              "wikipedia_link": "",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Mister_America",
               "ratings": {
                 "Tim": "0 Bags",
                 "Gregg": "3 Bags"
@@ -2438,7 +2438,7 @@
               "ratings": {
                 "Tim": "5 Bags",
                 "Gregg": "Absent",
-                "Mark": "Enjoyed It"
+                "Toni": "Enjoyed It"
               }
             },
             {
@@ -2447,7 +2447,7 @@
               "ratings": {
                 "Tim": "Unrated",
                 "Gregg": "Absent",
-                "Mark": "Unrated"
+                "Toni": "Unrated"
               }
             }
           ]
@@ -2462,10 +2462,10 @@
               "ratings": {
                 "Tim": "Unrated",
                 "Gregg": "5 Bags",
-                "Mark": "Unrated",
                 "Joe": "Unrated",
                 "Toni": "Unrated",
-                "Axiom": "Unrated"
+                "Axiom": "Unrated",
+                "Manuel": "Unrated"
               }
             },
             {
@@ -2474,10 +2474,10 @@
               "ratings": {
                 "Tim": "Unrated",
                 "Gregg": "5 Bags, Miniature Bridge",
-                "Mark": "Unrated",
                 "Joe": "Unrated",
                 "Toni": "Unrated",
-                "Axiom": "Unrated"
+                "Axiom": "Unrated",
+                "Manuel": "Unrated"
               }
             }
           ]
@@ -2492,7 +2492,7 @@
               "ratings": {
                 "Tim": "Unrated",
                 "Gregg": "Unrated",
-                "Mark": "Unrated"
+                "Toni": "Unrated"
               }
             },
             {
@@ -2501,7 +2501,7 @@
               "ratings": {
                 "Tim": "Unrated",
                 "Gregg": "Unrated",
-                "Mark": "Unrated"
+                "Toni": "Unrated"
               }
             }
           ]
@@ -2544,7 +2544,7 @@
               "ratings": {
                 "Tim": "Unrated",
                 "Gregg": "Boycotting Ratings",
-                "Toni": "Unrated"
+                "Manuel": "Unrated"
               }
             },
             {
@@ -2553,7 +2553,7 @@
               "ratings": {
                 "Tim": "Unrated",
                 "Gregg": "Boycotting Ratings",
-                "Toni": "Unrated"
+                "Manuel": "Unrated"
               }
             }
           ]
@@ -2590,7 +2590,7 @@
               "ratings": {
                 "Tim": "Unrated",
                 "Gregg": "Boycotting Ratings (Tim's estimate for Gregg: 5 Bags)",
-                "Toni": "Unrated"
+                "Joe": "Unrated"
               }
             },
             {
@@ -2599,7 +2599,7 @@
               "ratings": {
                 "Tim": "5 Bags, Antlers",
                 "Gregg": "Boycotting Ratings (Tim's estimate for Gregg: 5 Bags)",
-                "Toni": "Unrated"
+                "Joe": "Unrated"
               }
             }
           ]
@@ -2665,7 +2665,7 @@
               "ratings": {
                 "Tim": "Unrated",
                 "Gregg": "5 Bags, Hand with Wagging Finger",
-                "Toni": "Unrated"
+                "LaRoux": "Unrated"
               }
             },
             {
@@ -2674,7 +2674,7 @@
               "ratings": {
                 "Tim": "6 Bags",
                 "Gregg": "5 Bags, Can of Tennis Balls",
-                "Toni": "Unrated"
+                "LaRoux": "Unrated"
               }
             }
           ]
@@ -2689,7 +2689,7 @@
               "ratings": {
                 "Tim": "5 Bags, Golden Soda, Glass of Wine",
                 "Gregg": "Banned from Rating Movies",
-                "Toni": "5 Bags"
+                "Manuel": "5 Bags"
               }
             },
             {
@@ -2698,7 +2698,7 @@
               "ratings": {
                 "Tim": "5 Bags",
                 "Gregg": "Banned from Rating Movies",
-                "Toni": "5 Bags"
+                "Manuel": "5 Bags"
               }
             }
           ]
@@ -2728,9 +2728,10 @@
               "ratings": {
                 "Tim": "Unrated",
                 "Gregg": "Unrated",
-                "Toni": "Unrated",
                 "Manuel": "Unrated",
-                "Joe": "Unrated"
+                "Joe": "Unrated",
+                "LaRoux": "Unrated",
+                "Wendy": "Unrated"
               }
             },
             {
@@ -2739,9 +2740,10 @@
               "ratings": {
                 "Tim": "Unrated",
                 "Gregg": "4 Bags, Honorary 5th Bag",
-                "Toni": "Unrated",
                 "Manuel": "Unrated",
-                "Joe": "Unrated"
+                "Joe": "Unrated",
+                "LaRoux": "Unrated",
+                "Wendy": "Unrated"
               }
             }
           ]
@@ -2851,7 +2853,7 @@
                 "Tim": "Unrated",
                 "Gregg": "5 Giant Bags",
                 "Kaili": "Unrated",
-                "Joe": "Unrated"
+                "Axiom": "Unrated"
               }
             },
             {
@@ -2861,7 +2863,7 @@
                 "Tim": "Unrated",
                 "Gregg": "Unrated",
                 "Kaili": "Unrated",
-                "Joe": "Unrated"
+                "Axiom": "Unrated"
               }
             }
           ]
@@ -2984,11 +2986,11 @@
       "episodes": [
         {
           "episode_id": "1401",
-          "air_date": "Jan 3, 2024",
+          "air_date": "January 3, 2024",
           "reviews": [
             {
               "movie": "Night Swim",
-              "wikipedia_link": "",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Night_Swim",
               "ratings": {
                 "Tim": "Unrated",
                 "Joey": "3 Stars",
@@ -3010,11 +3012,11 @@
         },
         {
           "episode_id": "1402",
-          "air_date": "Jan 10, 2024",
+          "air_date": "January 10, 2024",
           "reviews": [
             {
               "movie": "The Book of Clarence",
-              "wikipedia_link": "",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/The_Book_of_Clarence",
               "ratings": {
                 "Tim": "Unrated",
                 "Joey": "3 and a half stars",
@@ -3025,7 +3027,7 @@
             },
             {
               "movie": "Mean Girls",
-              "wikipedia_link": "",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Mean_Girls_(2024_film)",
               "ratings": {
                 "Tim": "Unrated",
                 "Joey": "1 and a half stars",
@@ -3038,11 +3040,11 @@
         },
         {
           "episode_id": "1403",
-          "air_date": "Jan 17, 2024",
+          "air_date": "January 17, 2024",
           "reviews": [
             {
               "movie": "Founders Day",
-              "wikipedia_link": "",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Founders_Day_(film)",
               "ratings": {
                 "Tim": "Unrated",
                 "Joey": "3 stars",
@@ -3053,7 +3055,7 @@
             },
             {
               "movie": "I.S.S.",
-              "wikipedia_link": "",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/I.S.S._(film)",
               "ratings": {
                 "Tim": "Unrated",
                 "Joey": "3 and a half stars",
@@ -3066,11 +3068,11 @@
         },
         {
           "episode_id": "1404",
-          "air_date": "Jan 24, 2024",
+          "air_date": "January 24, 2024",
           "reviews": [
             {
               "movie": "Sometimes I Think About Dying",
-              "wikipedia_link": "",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Sometimes_I_Think_About_Dying",
               "ratings": {
                 "Tim": "Unrated",
                 "Joey": "3 and a half stars",
@@ -3080,7 +3082,7 @@
             },
             {
               "movie": "The Underdoggs",
-              "wikipedia_link": "",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/The_Underdoggs",
               "ratings": {
                 "Tim": "Unrated",
                 "Joey": "3 and a half stars",
@@ -3092,11 +3094,11 @@
         },
         {
           "episode_id": "1405",
-          "air_date": "Jan 30, 2024",
+          "air_date": "January 30, 2024",
           "reviews": [
             {
               "movie": "Argylle",
-              "wikipedia_link": "",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Argylle",
               "ratings": {
                 "Tim": "Unrated",
                 "Gregg": "5 Bags, rubber mouse with catnip in it",
@@ -3105,7 +3107,7 @@
             },
             {
               "movie": "The Promised Land",
-              "wikipedia_link": "",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/The_Promised_Land_(2023_film)",
               "ratings": {
                 "Tim": "Unrated",
                 "Gregg": "Unrated",
@@ -3116,11 +3118,11 @@
         },
         {
           "episode_id": "1406",
-          "air_date": "Feb 7, 2024",
+          "air_date": "February 7, 2024",
           "reviews": [
             {
               "movie": "It Ends With Us",
-              "wikipedia_link": "",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/It_Ends_with_Us_(film)",
               "ratings": {
                 "Tim": "Unrated",
                 "Joey": "Unrated",
@@ -3132,7 +3134,7 @@
         },
         {
           "episode_id": "1407",
-          "air_date": "Feb 14, 2024",
+          "air_date": "February 14, 2024",
           "reviews": [
             {
               "movie": "Madame Web",
@@ -3160,7 +3162,7 @@
         },
         {
           "episode_id": "1408",
-          "air_date": "Feb 21, 2024",
+          "air_date": "February 21, 2024",
           "reviews": [
             {
               "movie": "Drive-Away Dolls",
@@ -3175,7 +3177,7 @@
         },
         {
           "episode_id": "1409",
-          "air_date": "Feb 28, 2024",
+          "air_date": "February 28, 2024",
           "reviews": [
             {
               "movie": "Dune: Part Two",
@@ -3191,7 +3193,7 @@
         },
         {
           "episode_id": "1410",
-          "air_date": "Mar 6, 2024",
+          "air_date": "March 6, 2024",
           "reviews": [
             {
               "movie": "Kung Fu Panda 4",
@@ -3222,11 +3224,11 @@
       "episodes": [
         {
           "episode_id": "1501",
-          "air_date": "Dec 25, 2024",
+          "air_date": "December 25, 2024",
           "reviews": [
             {
               "movie": "Babygirl",
-              "wikipedia_link": "",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Babygirl",
               "ratings": {
                 "Tim": "5 Bags, two glasses of soda",
                 "Gregg": "5 Bags, quarter to call Tom Cruise"
@@ -3234,7 +3236,7 @@
             },
             {
               "movie": "Nosferatu",
-              "wikipedia_link": "",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Nosferatu_(2024_film)",
               "ratings": {
                 "Tim": "5 Bags, one cup of soda",
                 "Gregg": "5 Bags, vial of truth serum"
@@ -3260,11 +3262,11 @@
         },
         {
           "episode_id": "1502",
-          "air_date": "Jan 1, 2025",
+          "air_date": "January 1, 2025",
           "reviews": [
             {
               "movie": "The Damned",
-              "wikipedia_link": "",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/The_Damned_(2024_Palsson_film)",
               "ratings": {
                 "Tim": "5 Bags",
                 "Gregg": "5 Bags, sea sick tablet"
@@ -3272,7 +3274,7 @@
             },
             {
               "movie": "Wallace & Gromit: Vengeance Most Fowl",
-              "wikipedia_link": "",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Wallace_%26_Gromit:_Vengeance_Most_Fowl",
               "ratings": {
                 "Tim": "5 Bags",
                 "Gregg": "5 Bags"
@@ -3282,7 +3284,7 @@
         },
         {
           "episode_id": "1503",
-          "air_date": "Jan 8, 2025",
+          "air_date": "January 8, 2025",
           "reviews": [
             {
               "movie": "Den of Thieves 2: Pantera",
@@ -3306,7 +3308,7 @@
         },
         {
           "episode_id": "1504",
-          "air_date": "Jan 15, 2025",
+          "air_date": "January 15, 2025",
           "reviews": [
             {
               "movie": "One of Them Days",
@@ -3330,7 +3332,7 @@
         },
         {
           "episode_id": "1505",
-          "air_date": "Jan 22, 2025",
+          "air_date": "January 22, 2025",
           "reviews": [
             {
               "movie": "Flight Risk",
@@ -3352,7 +3354,7 @@
         },
         {
           "episode_id": "1506",
-          "air_date": "Jan 29, 2025",
+          "air_date": "January 29, 2025",
           "reviews": [
             {
               "movie": "Valiant One",
@@ -3374,7 +3376,7 @@
         },
         {
           "episode_id": "1507",
-          "air_date": "Feb 5, 2025",
+          "air_date": "February 5, 2025",
           "reviews": [
             {
               "movie": "Love Hurts",
@@ -3396,7 +3398,7 @@
         },
         {
           "episode_id": "1508",
-          "air_date": "Feb 12, 2025",
+          "air_date": "February 12, 2025",
           "reviews": [
             {
               "movie": "Captain America: Brave New World",
@@ -3429,7 +3431,7 @@
         },
         {
           "episode_id": "1509",
-          "air_date": "Feb 19, 2025",
+          "air_date": "February 19, 2025",
           "reviews": [
             {
               "movie": "The Gorge",
@@ -3453,7 +3455,7 @@
         },
         {
           "episode_id": "1510",
-          "air_date": "Feb 26, 2025",
+          "air_date": "February 26, 2025",
           "reviews": [
             {
               "movie": "84 Charing Cross Road",
@@ -3466,7 +3468,7 @@
         },
         {
           "episode_id": "Special",
-          "air_date": "Jun 18, 2025",
+          "air_date": "June 18, 2025",
           "reviews": [
             {
               "movie": "Mission: Impossible – The Final Reckoning",
@@ -3541,7 +3543,7 @@
       "episodes": [
         {
           "episode_id": "1601",
-          "air_date": "Oct 1, 2025",
+          "air_date": "October 1, 2025",
           "reviews": [
             {
               "movie": "The Strangers: Chapter 2",
@@ -3563,7 +3565,7 @@
         },
         {
           "episode_id": "1602",
-          "air_date": "Oct 8, 2025",
+          "air_date": "October 8, 2025",
           "reviews": [
             {
               "movie": "Roofman",
@@ -3585,7 +3587,7 @@
         },
         {
           "episode_id": "1603",
-          "air_date": "Oct 15, 2025",
+          "air_date": "October 15, 2025",
           "reviews": [
             {
               "movie": "Black Phone 2",
@@ -3607,7 +3609,7 @@
         },
         {
           "episode_id": "1604",
-          "air_date": "Oct 22, 2025",
+          "air_date": "October 22, 2025",
           "reviews": [
             {
               "movie": "Springsteen: Deliver Me from Nowhere",
@@ -3637,7 +3639,7 @@
         },
         {
           "episode_id": "1605",
-          "air_date": "Oct 29, 2025",
+          "air_date": "October 29, 2025",
           "reviews": [
             {
               "movie": "Bugonia",
@@ -3659,7 +3661,7 @@
         },
         {
           "episode_id": "1606",
-          "air_date": "Nov 5, 2025",
+          "air_date": "November 5, 2025",
           "reviews": [
             {
               "movie": "The Running Man",
@@ -3681,7 +3683,7 @@
         },
         {
           "episode_id": "1607",
-          "air_date": "Nov 12, 2025",
+          "air_date": "November 12, 2025",
           "reviews": [
             {
               "movie": "Now You See Me: Now You Don't",
@@ -3703,7 +3705,7 @@
         },
         {
           "episode_id": "1608",
-          "air_date": "Nov 19, 2025",
+          "air_date": "November 19, 2025",
           "reviews": [
             {
               "movie": "Wicked: For Good",
@@ -3711,6 +3713,36 @@
               "ratings": {
                 "Tim": "5 Bags",
                 "Gregg": "5 Bags"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "1610",
+          "air_date": "December 3, 2025",
+          "reviews": [
+            {
+              "movie": "Hamnet",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Hamnet_(film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags, replica tin cup with poison"
+              }
+            },
+            {
+              "movie": "Ella McCay",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Ella_McCay",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            },
+            {
+              "movie": "Five Nights at Freddy's 2",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Five_Nights_at_Freddy%27s_2_(film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags, 5 bags at Freddy's"
               }
             }
           ]

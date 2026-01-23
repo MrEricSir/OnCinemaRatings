@@ -23,11 +23,14 @@ layout: null
 </head>
 <body class="bg-slate-50 text-slate-900 dark:bg-slate-950 dark:text-slate-100 transition-colors duration-300 min-h-screen">
 
+    <!-- header image -->
+    <div class="w-full h-[400px] overflow-hidden flex justify-center bg-black">
+        <img src="header.jpg" class="min-w-full min-h-full object-cover" alt="How Many Bags?">
+    </div>
+    
     <div class="max-w-5xl mx-auto px-4 py-12">
+        <!-- header text -->
         <header class="mb-12 text-center">
-            <h1 class="text-5xl font-black text-slate-900 dark:text-white tracking-tight mb-2">
-                How Many <span class="text-yellow-500 italic">Bags?</span>
-            </h1>
             <p class="text-slate-500 dark:text-slate-400 text-lg font-medium">
                 Movie ratings from every episode of On Cinema at the Cinema. 
             </p>
@@ -38,6 +41,7 @@ layout: null
             </p>
         </header>
 
+        <!-- lights, camera, action: the movies! -->
         {% for season_item in site.data.expertise.expertise %}
         <section class="mb-16">
             <div class="season-header py-4 mb-6 border-b-2 border-slate-200 dark:border-slate-800 bg-slate-50/80 dark:bg-slate-950/80">
@@ -87,6 +91,7 @@ layout: null
         </section>
         {% endfor %}
 
+        <!-- footer text -->
         <footer class="py-12 border-t border-slate-200 dark:border-slate-800 text-center text-slate-400 dark:text-slate-600 text-sm">
             Total Seasons: {{ site.data.expertise.expertise.size }} | 
             <a href="https://github.com/MrEricSir/OnCinemaRatings" class="hover:text-slate-600 dark:hover:text-slate-400 underline decoration-dotted">Contribute on GitHub</a>

@@ -32,8 +32,21 @@ layout: null
 <body class="bg-slate-50 text-slate-900 dark:bg-slate-950 dark:text-slate-100 transition-colors duration-300 min-h-screen">
 
     <!-- header image -->
-    <div class="w-full h-[500px] overflow-hidden flex justify-center bg-black">
-        <img src="header.jpg" class="min-w-full min-h-full object-cover" alt="How Many Bags?">
+    <div class="w-full h-[33vh] min-h-[200px] max-h-[500px] relative" style="background: url('curtains_background.jpg') repeat-x center bottom; background-size: auto 100%;">
+        <div class="absolute inset-0 flex">
+            <!-- Left third: Tim -->
+            <div class="hidden sm:flex flex-1 items-end justify-center">
+                <img src="tim.png" class="max-h-[75%] object-contain" alt="Tim Heidecker">
+            </div>
+            <!-- Center: Logo -->
+            <div class="flex-1 flex items-center justify-center px-4">
+                <img src="how_many_bags_logo.png" class="max-h-[95%] object-contain" alt="How Many Bags?">
+            </div>
+            <!-- Right third: Gregg -->
+            <div class="hidden sm:flex flex-1 items-end justify-center">
+                <img src="gregg.png" class="max-h-[75%] object-contain" alt="Gregg Turkington">
+            </div>
+        </div>
     </div>
     
     <div class="max-w-5xl mx-auto px-4 py-12">

@@ -3748,6 +3748,41 @@
           ]
         }
       ]
+    },
+    {
+      "season": 17,
+      "episodes": [
+        {
+          "episode_id": "1701",
+          "air_date": "October 21, 2026",
+          "reviews": [
+            {
+              "movie": "Clayface",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Clayface_(film)",
+              "ratings": {
+                "Tim": "5 Bags, cup of NA beer",
+                "Gregg": "5 Bags, note that says not to eat the popcorn because it's made of clay"
+              }
+            },
+            {
+              "movie": "Wildwood",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Wildwood_(film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags"
+              }
+            },
+            {
+              "movie": "The Odyssey",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/The_Odyssey_(2026_film)",
+              "ratings": {
+                "Tim": "Unrated",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        }
+      ]
     }
   ]
 }

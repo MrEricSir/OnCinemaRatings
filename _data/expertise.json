@@ -3781,6 +3781,28 @@
               }
             }
           ]
+        },
+        {
+          "episode_id": "1703",
+          "air_date": "October 28, 2026",
+          "reviews": [
+            {
+              "movie": "Christmas at the Kringles",
+              "wikipedia_link": "",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "5 Bags, butter on the side"
+              }
+            },
+            {
+              "movie": "The Mongoose",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/The_Mongoose_(film)",
+              "ratings": {
+                "Tim": "5 Bags",
+                "Gregg": "unrated"
+              }
+            },
+          ]
         }
       ]
     }

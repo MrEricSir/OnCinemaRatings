@@ -3783,7 +3783,7 @@
           ]
         },
         {
-          "episode_id": "1703",
+          "episode_id": "1702",
           "air_date": "October 28, 2026",
           "reviews": [
             {
@@ -3805,7 +3805,7 @@
           ]
         },
         {
-          "episode_id": "1704",
+          "episode_id": "1703",
           "air_date": "November 4, 2026",
           "reviews": [
             {
@@ -3822,6 +3822,36 @@
               "ratings": {
                 "Tim": "Unrated",
                 "Gregg": "5 Bags"
+              }
+            }
+          ]
+        },
+        {
+          "episode_id": "1704",
+          "air_date": "November 11, 2026",
+          "reviews": [
+            {
+              "movie": "Ghost Soldier",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Ghost_Soldier_(film)",
+              "ratings": {
+                "Tim": "Unrated",
+                "Gregg": "5 Bags"
+              }
+            },
+            {
+              "movie": "Ebenezer",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Ebenezer_(2026_film)",
+              "ratings": {
+                "Tim": "Unrated",
+                "Gregg": "Boycotting Because Tim Burton not Directing"
+              }
+            },
+            {
+              "movie": "Wicker",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Wicker_(film)",
+              "ratings": {
+                "Tim": "Unrated",
+                "Gregg": "5 Bags, Wicker Basket"
               }
             }
           ]

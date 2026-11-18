@@ -3856,6 +3856,36 @@
             }
           ]
         }
+        {
+          "episode_id": "1705",
+          "air_date": "November 18, 2026",
+          "reviews": [
+            {
+              "movie": "I Play Rocky",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/I_Play_Rocky",
+              "ratings": {
+                "Tim": "Unrated",
+                "Gregg": "100 Bags"
+              }
+            },
+            {
+              "movie": "The Hunger Games: Sunrise on the Reaping",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/The_Hunger_Games:_Sunrise_on_the_Reaping",
+              "ratings": {
+                "Tim": "Recommended",
+                "Gregg": "5 Bags"
+              }
+            },
+            {
+              "movie": "Paper Tiger",
+              "wikipedia_link": "https://en.wikipedia.org/wiki/Paper_Tiger_(2026_film)",
+              "ratings": {
+                "Tim": "Unrated",
+                "Gregg": "5 Bags"
+              }
+            }
+          ]
+        }
       ]
     }
   ]
